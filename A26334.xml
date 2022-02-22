@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for the actual survey of all the counties in England and Wales: by Mr. Adams of the Inner-Temple</title>
+            <author>Adams, Mr. (John), fl. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26334</idno>
+            <idno type="STC">Wing A482</idno>
+            <idno type="STC">ESTC R213919</idno>
+            <idno type="EEBO-CITATION">99826169</idno>
+            <idno type="PROQUEST">99826169</idno>
+            <idno type="VID">30561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1822:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for the actual survey of all the counties in England and Wales: by Mr. Adams of the Inner-Temple</title>
+                  <author>Adams, Mr. (John), fl. 1680.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Wing gives publication date as "1685?", but the text solicits subscriptions for maps to be published in March and September 1682.</note>
+                  <note>Signatures: [A]² .</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Surveying --  Early works to 1800.</term>
+               <term>Geography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30561:1" rendition="simple:additions"/>
+            <head>PROPOSAL FOR THE <hi>ACTUAL SURUEY</hi> Of all the <hi>Counties</hi> in ENGLAND and WALES: BY Mr. <hi>ADAMS</hi> of the <hi>Inner-Temple.</hi>
+            </head>
+            <p>THE true meaſure of a <hi>Meridian Line,</hi> and the difference of Latitude between the North and South Points thereof, hath been the Enquiry of the beſt Geographers in all Ages, being the onely means from whence to calculate the true Compaſs of the Globe of Earth and Water, ſup<g ref="char:EOLhyphen"/>poſed to be exactly Spherical, and to know how many Miles do make a Degree in any Courſe, Sea upon a great Circle.</p>
+            <p>And although the Experiments of our Country-man Mr. <hi>Norwood,</hi> between <hi>York</hi> and <hi>London,</hi> and of <hi>Fernelius, Snellius, Riccioli,</hi> and the Eminent <hi>Picartus</hi> beyond Sea, already extant in Print may be thought ſufficient on this Subject, yet (the firſt recommending his Eſſay to a more correct way of Meaſure then he uſed, and all the others diſſering in their methods, and diſagreeing in the reſolution of the thing in Queſtion, and in the adjuſting of the Meaſures of ſeveral Nations) the certain truth of this matter doth hitherto remain doubtfull.</p>
+            <p>The ſaid Mr. <hi>Adams</hi> for clearing this Important Problem, doth intend to meaſure a true <hi>Meridi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an Line,</hi> from the Town of <hi>Monmoth,</hi> ſituate upon the Southern Borders of <hi>Herefordſhire,</hi> to the Northern Borders of <hi>Cheſhire,</hi> and to take the exact Latitude of <hi>Monmoth, Hereford, Shrewsbury <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cheſter,</hi> and <hi>Warington.</hi>
+            </p>
+            <p>He doth fix upon this part of the Kingdom becauſe (having formerly made, Propoſals for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> actual Survey of <hi>Shropſhire</hi>) he already hath the Subſcriptions of above one hundred and fifty <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the moſt conſiderable Gentlemen in the ſaid County; and the Survey thereof had been completed before now, had not the finiſhing of his <hi>Index Villaris</hi> of all the Cities, Marker-Towns, Pariſhes, Villages and Private Seats in <hi>England</hi> and <hi>Wales,</hi> (diſtinguiſhed by Symbols) and an Alphabe<g ref="char:EOLhyphen"/>tical Table of all the Nobility and Gentry, now ready for the Preſs, hindred that Work.</p>
+            <p>And being of opinion, That a true <hi>Coaſting-Line</hi> of the KINGDOM, together with the ſaid <hi>Meridi<g ref="char:EOLhyphen"/>an-Line</hi> will be a ſure foundation to carry on the Survey thereof, eſpecially if ſuch <hi>Meridian-Line</hi> be continued from <hi>Monmoth</hi> to the Southern Sea on the Coaſt of <hi>Dorſetſhire,</hi> and from the Northern part of <hi>Cheſhire</hi> to the Parallel of <hi>Barwick:</hi> and conceiving that ſuch Survey may be perfected, and large County-Maps engraved within the ſpace of Four Years, to commence from the 25 day of <hi>March</hi> next 1681. He hopes that the Gentry of this Kingdom will be as ready to encourage this Deſign, as they were to Subſcribe for his Great Map of <hi>England,</hi> wherein the Computations and Meaſures of Miles are entred in Figures.</p>
+            <list>
+               <head>In the MEASURE of the ſaid MERIDIAN-LINE.</head>
+               <item>I. <hi>He will, with the aſſiſtance of an able Surveyor, meaſure a much greater Stationary Diſtance then</hi> Picartus <hi>did, backward and forward, and, beſides the Chain and Wheel, will make uſe of Pikes ſcrewed together, for the adjuſting of ſuch Meaſure.</hi>
+               </item>
+               <item>II. <hi>That in taking the Angles of Poſition he will uſe the beſt Inſtruments that can be gotten, and compare the way of</hi> Snellius <hi>by Pinnules, or Common Sights, with that of</hi> Picartus, <hi>by Teleſcopes.</hi>
+               </item>
+               <item>III. <hi>To prove the Truth of ſuch Meaſure, he doth deſign, That his Brother,</hi> William Adams <hi>of</hi> Long<g ref="char:EOLhyphen"/>don, <hi>in the County of</hi> Salop, <hi>Eſquire, (a perſon very well known in the ſaid three Counties of</hi> Salop, Cheſter, <hi>and</hi> Hereford, <hi>for his Ability and long Experience in Survey) with the aſſi<g ref="char:EOLhyphen"/>ſtance of another able Artiſt, ſhall meaſure a different Station with the ſame Exactneſs, and proceed in all things as is before propoſed, and that if his Brother meaſure from North to South, he will meaſure from South to North.</hi>
+               </item>
+               <item>IIII. <hi>That, in taking the ſeveral Latitudes of Places, he will uſe very large Inſtruments, and make the Obſervations double and apart, and proceed therein as he ſhall be directed by the ableſt Mathematicians, whoſe Advice he deſires, in an Experiment of ſo great Importance and ge<g ref="char:EOLhyphen"/>neral uſe to all Mankind, but more particularly to the Trading part of the World.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:30561:2"/>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Intends by two, or more, skilful Surveyors to take the true Circuit, or Girth-line, of the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hole Kingdom, from the Shore near <hi>Carliſle,</hi> in <hi>Cumberland,</hi> to the Lands-end, in <hi>Cornwal,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the <hi>North foreland,</hi> in <hi>Kent,</hi> and ſo to <hi>Barwick</hi> Bounds Northwards, and from thence, the Borders dividing <hi>England</hi> from <hi>Scotland</hi> to the Place where the Meaſure did begin: Which being done, he will divide the Kingdom into four Parts, and imploy eight able Surveyors in ta<g ref="char:EOLhyphen"/>king the Angles of Poſition of all the eminent Places therein, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>I. <hi>Two ſhall undertake the twelve Counties of</hi> Wales, <hi>and the County of</hi> Monmoth, <hi>and ſhall begin their Survey from the ſaid Meridian-Line.</hi>
+               </item>
+               <item>II. <hi>Two more the Counties of</hi> York, Lancaſter, Weſtmerland, Cumberland, Northumberland, <hi>and the Biſhoprick of</hi> Durham.</item>
+               <item>III. <hi>Two more the Counties of</hi> Derby, Nottingham, Lincoln, Warwick, Worceſter, Gloceſter, Oxford, Bucks, Northampton, Leiceſter, Rutland, Cambridge, Huntington, Bedford, Hertford, Eſſex, Norfolk, <hi>and</hi> Suffolk.</item>
+               <item>IIII. <hi>And the Two laſt the Counties of</hi> Cornwal, Devon, Somerſet, Dorſet, Wilts, Southampton, Berks, Midleſex, Surrey, Suffex, <hi>and</hi> Kent.</item>
+            </list>
+            <p>And as for the four Counties of <hi>Salop, Cheſter, Hereford,</hi> and <hi>Stafford,</hi> the ſaid Mr. <hi>Adams</hi> will (by God's aſſiſtance) within the ſpace of 18 months perfect the Actual Survey of three of them, and the County of <hi>Stafford</hi> is already more then half done, by Mr. <hi>Gregory King, Rouge-dragon,</hi> Purſi<g ref="char:EOLhyphen"/>vant of Arms, being aſſiſted by Mr. <hi>William Gent,</hi> an able and experienced Surveyor, in ſo correct <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> manner, that he doubts not but the Borders of <hi>Cheſhire</hi> and <hi>Shropſhire,</hi> adjoining thereunto, when the ſame are ſiniſhed, will perfectly cloſe therewith.</p>
+            <p>And beſides, the ſaid Eight Surveyors, who from the Tops of every Hill, Steeple or other Emi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent Place, ſhall take the true Bearings, and thereby put all the Cities, Market-Towns, Pariſh-Churches, Chapels, Villages, Hamlets and Private Seats in their due Poſition, which he conceives to be the fixing of about 40000 Points, he will imploy thirty perſons in the perfecting of the ſaid Work. Ten to make an Actual Survey of all the Rivers, Rivulets, Mears and Standing Waters, and of the 800 Cities and Market-Towns in <hi>England</hi> and <hi>Wales:</hi> Ten more to meaſure all the Roads of the Kingdom: And Ten more to take the true Circuit, or Girth-line of each County, and of all the Hundreds, Forreſts, Chaſes and Parks therein, ſo that nothing may be omitted to com<g ref="char:EOLhyphen"/>pleat the ſaid County-Maps.</p>
+            <p>But if in the meaſuring of the ſaid Coaſting-Line, it be thought requiſite by the King's moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty and the Lords of His Council, That the Sands, Shoals, Rocks, Havens, Bayes, Roads, Harbours, Ports, Soundings, Buoys, Beacons, Sea-marks, <hi>&amp;c.</hi> be accurately obſerved and ſet down, he conceives, That the ſame cannot be done, without a convenient number of ſmall Veſſels attending that Service, and which being for the common good of the whole Kingdom, the charge ought to be defrayed by the Publick Purſe. But he cannot compute the certain charge thereof without conſulting able and experienced Sea-men.</p>
+            <p>And having now ſpent ſix years in the Geographical Study of this Kingdom, and peruſing all the Authors he could meet with, who have Mapped or deſcribed the ſame, or any part thereof, and making uſefull Collections ſutable to carry on ſo great a Work, he now makes his Applicati<g ref="char:EOLhyphen"/>on to both the Univerſities for their Advice in the Regulation thereof, and to the Nobility and Gen<g ref="char:EOLhyphen"/>try for their encouragement by Subſcriptions, and to induce them thereunto, he makes the fol<g ref="char:EOLhyphen"/>lowing Offers.</p>
+            <list>
+               <item>I. <hi>He doth undertake to publiſh an Account in Print of the true Meaſure upon the Surface of the Earth, which will anſwer to a Degree in the Heavens, and of the true Circuit of</hi> England <hi>and</hi> Wales, <hi>by the</hi> 25th, <hi>day of</hi> March, 1682.</item>
+               <item>II. <hi>That he will finiſh the Survey of the ſaid three Counties of</hi> Salop, Cheſter, <hi>and</hi> Hereford, <hi>by the</hi> 29th. <hi>day of</hi> September, 1682. <hi>and that each of the ſaid County Maps, and all his County Maps, with the Ornament thereof, ſhall be at leaſt two Foot deep, and three Foot long; and that he will therein inſert all the Towns, Villages, Private-ſeats, Roads, Rivers, Rivulets, Mears, Standing waters, Forreſts, Chaſes, Parks, Woods, Hills, and whatever elſe ſhall be thought uſefull for the perfecting thereof.</hi>
+               </item>
+               <item>III. <hi>That he will, by way of Bordure, add an Alphabetical Table of all the Gentry of each County, and grave their ſeveral Coats of Arms, larger then in Dr.</hi> Plott<hi>'s Map of</hi> Oxfordſhire, gratís. <hi>Provided, That due Information be given him of the Blazon of ſuch Coats.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:30561:2"/>
+            <list>
+               <head>THE PROPOSALS.</head>
+               <item>I. <hi>The Perſon who ſubſcribes for any of the ſaid County Maps ſhall have the ſame paſted upon Cloth, well coloured, and with Rowler and Ledge, for ten ſhillings each Map, to be paid upon delivery: and if any Tradeſman or other Perſon will ſubſcribe for five Maps, he ſhall receive ſix.</hi>
+               </item>
+               <item>II. <hi>But, foraſmuch as the Meaſuring of the ſaid Meridian and Coaſting line will put him to the Charge of Eight hundred pounds or upwards, in preparing accurate Inſtruments and imploying a conſiderable number of Perſons to aſſiſt him in that Work, he makes it his Requeſt, that ſuch of the Nobility and Gentry who will encourage that Deſign by Subſcribing for the printed Ac<g ref="char:EOLhyphen"/>count thereof, will, at the ſame time, advance the Money by them ſubſcribed, and he will allow the ſame in County-Maps as the ſame ſhall be finiſhed: and publickly acknowledge their Favor, by printing therewith a Liſt of ſuch Encouragers.</hi>
+               </item>
+            </list>
+            <p>The Propoſals may be had <hi>gratis</hi> at the Shop of Mr. <hi>Pen,</hi> a Stationer, near the <hi>Temple</hi> Church.</p>
+            <p>
+               <table>
+                  <head>We whoſe Names are underwritten do each of us ſubſcribe according to the true Intent and Meaning of theſe PROPOSALS.</head>
+                  <row>
+                     <cell>For the Printed Ac<g ref="char:EOLhyphen"/>count-in the Second Propoſal</cell>
+                     <cell>For the County of <hi>Salop</hi>
+                     </cell>
+                     <cell>For the County of <hi>Cheſter</hi>
+                     </cell>
+                     <cell>For the County of <hi>Hereford</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For the County of</cell>
+                     <cell>For the County of</cell>
+                     <cell>For the County of</cell>
+                     <cell>For the County of</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
